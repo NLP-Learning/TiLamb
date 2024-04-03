@@ -32,7 +32,7 @@
 
 - 在原始 LLaMA2 的词表中增加额外约 30,000 个藏文tokens，增强了藏文的编码和解码效率，并提高了 LLaMA2 对藏文的理解能力。
 
-- [TiLamb使用的藏文分词模型](/Tokenization Model/Legacy Tokenization Model/)
+- [TiLamb使用的藏文分词模型](Tokenization Model/Legacy Tokenization Model)
 
 #### ⚔️ 扩充词表前后分词对比
 
