@@ -59,7 +59,7 @@
 | 语言支持       | 藏文    |
 | 文件大小         | 13.0 GB       |
 | **🤖ModelScope    下载链接** | [https://modelscope.cn/models/YoLo2000/TiLamb-7B/summary](https://modelscope.cn/models/YoLo2000/TiLamb-7B/summary)|
-| **🤗Hugging Face下载链接** | [https://huggingface.co/zhuangwenhao/TiLamb-7B](https://huggingface.co/zhuangwenhao/TiLamb-7B)  |
+| **🤗Hugging Face下载链接** | [https://huggingface.co/YoLo2000/TiLamb-7B](https://huggingface.co/YoLo2000/TiLamb-7B)  |
 
 > [!NOTE]
 > [1] *TiLamb-7B 用于扩充LLaMA2原始词表的藏文分词模型并非上文提到的[藏文分词模型](#模型简介)。当时使用早期训练的词表大小30,000、覆盖率99.95\%的藏文分词模型，而[上文提到的分词模型](#模型简介)为近期训练所得，也是我们目前认为最符合需求的藏文分词模型，并将在我们下一代藏文大语言模型中使用。*</br>
